@@ -82,6 +82,7 @@ jobs:
         if: runner.os == 'Linux' && matrix.config.r == 'release'
         run: |
           result <- urlchecker::url_check()
+          result <- result[result$Status != "OK", , drop = FALSE]
           result <- result[result$URL != "https://www.bcassessment.ca/", , drop = FALSE]
           result <- result[!startsWith(result$URL, "https://doi.org/"), , drop = FALSE]
           if (nrow(result) > 0) {
