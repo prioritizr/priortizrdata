@@ -29,3 +29,27 @@ Conservation planning dataset for Washington, The United States of America.
 
 }
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://prioritizr.github.io/prioritizrdata/}
+  \item \url{https://github.com/prioritizr/prioritizrdata}
+  \item Report bugs at \url{https://github.com/prioritizr/prioritizrdata/issues}
+}
+
+}
+\author{
+\strong{Maintainer}: Richard Schuster \email{richard.schuster@glel.carleton.ca} (\href{https://orcid.org/0000-0003-3191-7869}{ORCID})
+
+Authors:
+\itemize{
+  \item Jeffrey O Hanson \email{jeffrey.hanson@uqconnect.edu.au} (\href{https://orcid.org/0000-0002-4716-6134}{ORCID})
+  \item Nina Morrell \email{nina.morrell@ubc.ca}
+  \item Matthew Strimas-Mackey \email{mstrimas@gmail.com} (\href{https://orcid.org/0000-0001-8929-7776}{ORCID})
+  \item Matthew E Watts \email{m.watts@uq.edu.au}
+  \item Peter Arcese \email{peter.arcese@ubc.ca} (\href{https://orcid.org/0000-0002-8097-482X}{ORCID})
+  \item Joseph R Bennett \email{joseph.bennett@carleton.ca} (\href{https://orcid.org/0000-0002-3901-9513}{ORCID})
+  \item Hugh P Possingham \email{hugh.possingham@tnc.org} (\href{https://orcid.org/0000-0001-7755-996X}{ORCID})
+}
+
+}

@@ -60,6 +60,6 @@ publications. To cite the latest official version, please use:
 Alternatively, to cite the latest development version, please use:
 
 > Hanson JO, Schuster R, Morrell N, Strimas-Mackey M, Watts ME, Arcese
-> P, Bennett J, Possingham HP (2023). prioritizrdata: Conservation
-> Planning Datasets. R package version 0.3.2.1. Available at
+> P, Bennett J, Possingham HP (2024). prioritizrdata: Conservation
+> Planning Datasets. R package version 0.3.2.2. Available at
 > <https://github.com/prioritizr/prioritizrdata>.

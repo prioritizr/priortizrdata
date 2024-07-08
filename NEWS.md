@@ -1,3 +1,7 @@
+# prioritizrdata 0.3.2.2
+
+- Update package manual entry.
+
 # prioritizrdata 0.3.2.1
 
 - Fix aliasing for package manual entry (#14).
