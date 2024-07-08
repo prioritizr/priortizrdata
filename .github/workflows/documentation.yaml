@@ -87,6 +87,7 @@ jobs:
           result <- result[!startsWith(result$URL, "https://doi.org/"), , drop = FALSE]
           if (nrow(result) > 0) {
             print(result)
+            print(str(result))
             stop("Invalid URLs detected")
           }
         shell: Rscript {0}
